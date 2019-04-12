@@ -1,2 +1,2 @@
-#This is not a blog!
+# This is not a blog!
 Though, it may become one.
